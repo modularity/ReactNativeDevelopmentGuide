@@ -1,4 +1,4 @@
-# Debug, upgrade and create release for React Native projects
+# Debug and upgrade React Native projects
 
 ### Quick project reset
 
