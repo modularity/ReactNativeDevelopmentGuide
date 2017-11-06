@@ -50,7 +50,7 @@
 #### JAVASCRIPT
 [JavaScript envirnoment and syntax with React Native - React Native docs](http://facebook.github.io/react-native/releases/0.49/docs/javascript-environment.html)
 
-[MDN docs on JavaScript]https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+[MDN docs on JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 [ES6 feature overview - lukehoban on GitHub](https://github.com/lukehoban/es6features)
 
