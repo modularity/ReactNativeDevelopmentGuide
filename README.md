@@ -162,7 +162,7 @@ https://npmcompare.com/ Compares repos: stars, issues, etc
 
 http://www.awesome-react-native.com
 
-## LINKING LIBRARIES
+#### LINKING LIBRARIES
 https://facebook.github.io/react-native/docs/linking-libraries-ios.html 
 
 https://facebook.github.io/react-native/docs/integration-with-existing-apps.html#3-install-cocoapods manage iOS native modules w CocoaPods
@@ -236,7 +236,7 @@ http://apetools.webprofusion.com/tools/imagegorilla Transform app icon/splashscr
 #### PROJECTS WITHOUT NATIVE MODULES
 https://github.com/Microsoft/react-native-code-push CodePush
 
-## PUBLISH FOR IOS
+#### PUBLISH FOR IOS
 1. Update Xcode scheme for project Product -> Scheme -> Edit Scheme -> Run -> Info -> Build Configuration -> Release
 
 2. Ensure certificates are set for Distribution (configure w Apple Developer account)
@@ -253,7 +253,7 @@ https://github.com/Microsoft/react-native-code-push CodePush
 
 8. The new binary will become available in iTunesConnect.
 
-## PUBLISH FOR ANDROID
+#### PUBLISH FOR ANDROID
 
 https://developer.android.com/distribute/best-practices/launch/launch-checklist.html Checklist 
 
