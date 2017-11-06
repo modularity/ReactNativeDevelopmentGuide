@@ -142,6 +142,9 @@ Paradigm to manage app state and data flow
 
 [Contributing to React Native - React Native docs](https://facebook.github.io/react-native/docs/contributing.html)
 
+#### PERFORMANCE
+[Performance with React Native - React Native docs](https://facebook.github.io/react-native/docs/performance.html)
+
 #### DESIGN
 [Design, prototyping for UI - Figma](https://www.figma.com)
 
