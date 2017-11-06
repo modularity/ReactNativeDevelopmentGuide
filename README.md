@@ -106,6 +106,35 @@ https://github.com/happypoulp/redux-tutorial Tutorial
 
 https://code-cartoons.com/a-cartoon-intro-to-redux...Cartoon
 
+#### MOBILE DEVELOPMENT
+
+https://www.thinslices.com/blog/phases-mobile-product-development-process Typical Mobile Development Cycle
+
+https://thebhwgroup.com/blog/mobile-app-development-process Indepth Mobile Development Process
+
+#### iOS DEVELOPMENT
+
+https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Introduction/Introduction.html iOS permissions in Info.plist
+
+https://www.theodo.fr/blog/2017/02/a-beginners-guide-to-ios-provisioning-profiles/ Overview of iOS certificates, identifiers and profiles
+
+https://developer.apple.com/programs/ Program to setup iOS certificates, provisioning profiles, TestFlight, Distribution
+
+https://developer.apple.com/support/certificates/ iOS certificate types
+
+https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html iOS App Distribution Guide
+
+https://itunesconnect.apple.com/ Platform to manage App Store submissions
+
+#### ANDROID DEVELOPMENT
+
+https://developer.android.com/guide/topics/permissions/index.html Android permissions in AndroidManifest.xml
+
+https://developer.android.com/distribute/console/index.html Platform to manage Google Play submission
+
+https://developer.android.com/distribute/console/features.html Features with Google Play Console
+
+
 # THE NEXT LEVEL
 #### CONTRIBUTE
 https://opensource.guide/how-to-contribute/ 
@@ -225,6 +254,9 @@ https://github.com/Microsoft/react-native-code-push CodePush
 8. The new binary will become available in iTunesConnect.
 
 ## PUBLISH FOR ANDROID
+
+https://developer.android.com/distribute/best-practices/launch/launch-checklist.html Checklist 
+
 1. https://facebook.github.io/react-native/docs/signed-apk-android.html Create signed APK
 
 2. The generated APK is found under PROJECTNAME/android/app/build/outputs/apk/app-release.apk
