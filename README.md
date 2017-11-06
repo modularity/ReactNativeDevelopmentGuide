@@ -1,60 +1,61 @@
 
 # DIVE IN
 #### GETTING STARTED
-https://docs.google.com/presentation/d/1XHoO5OzxoWgOQD6zDhGFssL-PT9MNp7P89pFWWnyFHw/edit?usp=sharing Presentation overview
+[Presentation: overview of React Native](https://docs.google.com/presentation/d/1XHoO5OzxoWgOQD6zDhGFssL-PT9MNp7P89pFWWnyFHw/edit?usp=sharing)
 
-http://www.reactnativeexpress.com/ Overview with Tutorial
+[Overview with Tutorial](http://www.reactnativeexpress.com/)
 
-https://facebook.github.io/react-native/docs/getting-started.html Docs
+[Docs](https://facebook.github.io/react-native/docs/getting-started.html)
 
 #### DEV TOOLS
-https://atom.io/ IDE
+[IDE - Atom](https://atom.io/)
 
-https://nuclide.io/ React Native package for Atom
+[React Native package for Atom - Nuclide](https://nuclide.io/)
 
-https://code.visualstudio.com/ IDE
+[IDE - Visual Studio Code](https://code.visualstudio.com/)
 
-https://flow.org/ Catch typing errors
+[Catch typing errors - Flow](https://flow.org/)
 
-http://facebook.github.io/jest/ Unit tests
+[Unit Tests - Jest](http://facebook.github.io/jest/)
 
-https://facebook.github.io/react-native/docs/debugging.html Debug
+[Debugging - React Native docs](https://facebook.github.io/react-native/docs/debugging.html)
 
 #### STARTER KITS
-https://expo.io/ Easiest way to build your first project
+[Easiest way to build your first project - Expo](https://expo.io/) 
 
-https://github.com/infinitered/ignite CLI with boilerplates, plugins, etc
+[CLI with boilerplates, plugins, etc - Ignite](https://github.com/infinitered/ignite) 
 
-https://github.com/akveo/kittenTricks UI starter kit
+[UI starter kit - Kitten Tricks](https://github.com/akveo/kittenTricks)
 
-https://avocode.com/nachos-ui/docs UI components
+[UI components library - React Native Elements](https://github.com/react-native-training/react-native-elements)
 
-https://github.com/react-native-training/react-native-elements UI components
+[UI components library - Nacho UI](https://avocode.com/nachos-ui/docs)
+
 
 #### RUN ON A DEVICE
-https://facebook.github.io/react-native/docs/running-on-device.html
+[Running on Device - React Native docs](https://facebook.github.io/react-native/docs/running-on-device.html)
 
 #### COMMUNITY
-https://facebook.github.io/react-native/support.html
+[Support resources - React Native docs](https://facebook.github.io/react-native/support.html)
 
-https://discord.gg/0ZcbPKXt5bZjGY5n
+[Reactiflux Dischord channel](https://discord.gg/0ZcbPKXt5bZjGY5n)
 
-https://www.facebook.com/groups/react.native.community
+[FB React Native Community](https://www.facebook.com/groups/react.native.community)
 
-https://twitter.com/reactnative
+[Official Twitter for React Native](https://twitter.com/reactnative)
 
-https://facebook.github.io/react-native/blog/
+[Official React Native blog](https://facebook.github.io/react-native/blog/)
 
 # SOLIDIFY THE FOUNDATION
 #### JAVASCRIPT
-http://facebook.github.io/react-native/releases/0.49/docs/javascript-environment.html  JavaScript envirnoment/syntax with React Native
+[JavaScript envirnoment and syntax with React Native - React Native docs](http://facebook.github.io/react-native/releases/0.49/docs/javascript-environment.html)
 
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript MDN docs
+[MDN docs on JavaScript]https://developer.mozilla.org/en-US/docs/Learn/JavaScript
 
-https://github.com/lukehoban/es6features ES6 overview
+[ES6 feature overview - lukehoban on GitHub](https://github.com/lukehoban/es6features)
 
 #### REACT
-https://reactjs.org/ Docs
+[React docs](https://reactjs.org/)
 
 #### COMPONENTS
 Native, not web components e.g. <view> not <div>
@@ -63,14 +64,14 @@ Building blocks of React Native app
 
 Has JSX, props and state
 
-https://facebook.github.io/react-native/docs/components-and-apis.html 
+[Components and APIs - React Native docs](https://facebook.github.io/react-native/docs/components-and-apis.html) 
 
 #### JSX
 Write markup language in the codebase
 
 Syntax for embedding XML within JavaScript e.g. <Text>Hello world!</Text>
 
-https://reactjs.org/docs/jsx-in-depth.html 
+[JSX in Depth - React docs](https://reactjs.org/docs/jsx-in-depth.html) 
 
 #### PROPS
 Set by the parent
@@ -79,7 +80,7 @@ Fixed throughout lifetime of the app
 
 Creation parameters customize components
 
-https://facebook.github.io/react-native/docs/props.html 
+[Props - React Native docs](https://facebook.github.io/react-native/docs/props.html) 
 
 #### STATE
 Track data changes in app
@@ -88,86 +89,86 @@ Init in constructor, then call setState to update
 
 Changes in state trigger RN lifecycle e.g. render() to run again
 
-https://facebook.github.io/react-native/docs/state.html 
+[State - React Native docs](https://facebook.github.io/react-native/docs/state.html) 
 
 #### LIFECYCLE
-https://reactjs.org/docs/react-component.html 
+[Component Lifecycle - React docs](https://reactjs.org/docs/react-component.html) 
 
-https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1 
+[React Lifecycle methods - Musefind](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1) 
 
 #### REDUX
 Paradigm to manage app state and data flow
 
-http://redux.js.org/ Docs
+[Redux docs](http://redux.js.org/)
 
-https://egghead.io/courses/getting-started-with-redux Videos
+[Videos on redux - Dan Abramov on egghead.io](https://egghead.io/courses/getting-started-with-redux)
 
-https://github.com/happypoulp/redux-tutorial Tutorial
+[Redux tutorial - happypoulp on GitHub](https://github.com/happypoulp/redux-tutorial)
 
-https://code-cartoons.com/a-cartoon-intro-to-redux...Cartoon
+[Redux cartoon - Lin Clark on Meduim](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 
 #### MOBILE DEVELOPMENT
 
-https://www.thinslices.com/blog/phases-mobile-product-development-process Typical Mobile Development Cycle
+[Typical Mobile Development Cycle - Thinslices](https://www.thinslices.com/blog/phases-mobile-product-development-process)
 
-https://thebhwgroup.com/blog/mobile-app-development-process Indepth Mobile Development Process
+[Indepth Mobile Development Process - The BHW Group](https://thebhwgroup.com/blog/mobile-app-development-process)
 
 #### iOS DEVELOPMENT
 
-https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Introduction/Introduction.html iOS permissions in Info.plist
+[iOS permissions in Info.plist - Apple Developer docs](https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Introduction/Introduction.html)
 
-https://www.theodo.fr/blog/2017/02/a-beginners-guide-to-ios-provisioning-profiles/ Overview of iOS certificates, identifiers and profiles
+[Overview of iOS certificates, identifiers and profiles - Theodo](https://www.theodo.fr/blog/2017/02/a-beginners-guide-to-ios-provisioning-profiles/)
 
-https://developer.apple.com/programs/ Program to setup iOS certificates, provisioning profiles, TestFlight, Distribution
+[Program to setup iOS certificates, provisioning profiles, TestFlight, Distribution - Apple Developer](https://developer.apple.com/programs/)
 
-https://developer.apple.com/support/certificates/ iOS certificate types
+[iOS certificate types - Apple Developer](https://developer.apple.com/support/certificates/)
 
-https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html iOS App Distribution Guide
+[iOS App Distribution Guide - Apple Developer docs](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/Introduction/Introduction.html)
 
-https://itunesconnect.apple.com/ Platform to manage App Store submissions
+[Platform to manage App Store submissions - iTunesConnect](https://itunesconnect.apple.com/)
 
 #### ANDROID DEVELOPMENT
 
-https://developer.android.com/guide/topics/permissions/index.html Android permissions in AndroidManifest.xml
+[Android permissions in AndroidManifest.xml - Android Developer docs](https://developer.android.com/guide/topics/permissions/index.html)
 
-https://developer.android.com/distribute/console/index.html Platform to manage Google Play submission
+[Platform to manage Google Play submission - Android Developer](https://developer.android.com/distribute/console/index.html)
 
-https://developer.android.com/distribute/console/features.html Features with Google Play Console
+[Features with Google Play Console - Android Developer](https://developer.android.com/distribute/console/features.html)
 
 
 # THE NEXT LEVEL
 #### CONTRIBUTE
-https://opensource.guide/how-to-contribute/ 
+[How to contribute to open source - Opensource.guide](https://opensource.guide/how-to-contribute/) 
 
-https://facebook.github.io/react-native/docs/contributing.html 
+[Contributing to React Native - React Native docs](https://facebook.github.io/react-native/docs/contributing.html)
 
 #### DESIGN
-https://www.figma.com Design, prototyping for UI
+[Design, prototyping for UI - Figma](https://www.figma.com)
 
-https://designer.io/ Vector editor
+[Vector editor - Designer.io](https://designer.io/)
 
-https://pixlr.com/web Image editor
+[Image editor - Pixlr](https://pixlr.com/web)
 
-https://www.canva.com/ Simple graphic design tool 
+[Simple graphic design tool - Canva](https://www.canva.com/)
 
 #### NODE
-https://nodejs.org/en/docs/ Docs
+[Node.js docs](https://nodejs.org/en/docs/)
 
-https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/
+[packager managers: yarn vs npm - RisingStack](https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/)
 
-https://www.alexkras.com/understanding-differences-between-npm-yarn-and-pnpm/
+[Understanding differences between npm, yarn and pnpm - Alex Kras](https://www.alexkras.com/understanding-differences-between-npm-yarn-and-pnpm/)
 
 #### TOOLS FOR LIBRARY SELECTION
-https://npmcompare.com/ Compares repos: stars, issues, etc
+[Compare repos: stars, issues, etc - npmcompare](https://npmcompare.com/)
 
-http://www.awesome-react-native.com
+[Resource for recommended React Native libaries - Awesome React Native](http://www.awesome-react-native.com)
 
 #### LINKING LIBRARIES
-https://facebook.github.io/react-native/docs/linking-libraries-ios.html 
+[Linking libraries for iOS builds - React Native docs](https://facebook.github.io/react-native/docs/linking-libraries-ios.html) 
 
-https://facebook.github.io/react-native/docs/integration-with-existing-apps.html#3-install-cocoapods manage iOS native modules w CocoaPods
+[Manage iOS native modules w CocoaPods - React Native docs](https://facebook.github.io/react-native/docs/integration-with-existing-apps.html#3-install-cocoapods)
 
-https://facebook.github.io/react-native/docs/native-modules-android.html 
+[Native Modules with Android - React Native docs](https://facebook.github.io/react-native/docs/native-modules-android.html) 
 
 #### UPGRADING BUILDS
 Currently updates once a month
@@ -176,65 +177,65 @@ DO NOT recommend upgrading immediately unless read the release notes and are wil
 
 DO recommend upgrading immediately if you want to help stabilize the build by reporting bugs and collaborating with the community to create patches. The core team can’t test everything. Why not help fix it?
 
-http://facebook.github.io/react-native/versions.html 
+[List of versions - React Native docs](http://facebook.github.io/react-native/versions.html) 
 
-https://facebook.github.io/react-native/docs/upgrading.html
+[Upgrading React Native - React Native docs](https://facebook.github.io/react-native/docs/upgrading.html)
 
-https://github.com/tjunnone/npm-check-updates Upgrade package.json dependencies
+[Upgrade package.json dependencies - tjunnone on GitHub](https://github.com/tjunnone/npm-check-updates)
 
 #### 3rd PARTY LIBRARIES
-https://github.com/oblador/react-native-vector-icons Icons and fonts
+[Icons and fonts - react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
-https://github.com/react-community/react-navigation Navigation
+[Officially recommended navigation library - react-navigation](https://github.com/react-community/react-navigation)
 
-https://github.com/wix/react-native-navigation Navigation
+[Really popular navigation library - react-native-navigation](https://github.com/wix/react-native-navigation)
 
-https://github.com/facebook/react-native-fbsdk FB login, sharing, etc
+[FB login, sharing, etc - react-native-fbsdk](https://github.com/facebook/react-native-fbsdk)
 
-https://realm.io/docs/javascript/latest/ Device storage w relational db
+[Device storage w relational db - realm](https://realm.io/docs/javascript/latest/)
 
-https://github.com/airbnb/react-native-maps Mapview w markers
+[Mapview w markers - react-native-maps](https://github.com/airbnb/react-native-maps)
 
-https://github.com/airbnb/lottie-react-native Animations
+[Animations - lottie-react-native](https://github.com/airbnb/lottie-react-native)
 
-https://github.com/react-native-community/react-native-svg svg library
+[SVG library - react-native-svg](https://github.com/react-native-community/react-native-svg)
 
-https://github.com/FormidableLabs/victory-native Data visualization
+[Data visualization - victory-native](https://github.com/FormidableLabs/victory-native)
 
-https://github.com/tomauty/react-native-chart Data visualization
+[Data visualization - react-native-chart](https://github.com/tomauty/react-native-chart)
 
-https://github.com/oblador/react-native-image-progress Progress bars
+[Progress bars - react-native-image-progress](https://github.com/oblador/react-native-image-progress)
 
-https://github.com/Microsoft/reactxp Cross-platform: web, mobile
+[Cross-platform: web, mobile - reactxp](https://github.com/Microsoft/reactxp)
 
-https://github.com/airbnb/react-dates Calendar UI
+[Calendar UI - react-dates](https://github.com/airbnb/react-dates)
 
-https://github.com/react-community/react-native-image-picker Select media from device library or camera 
+[Select media from device library or camera - react-native-image-picker](https://github.com/react-community/react-native-image-picker)
 
-https://github.com/rebeccahughes/react-native-device-info Device info
+[Device info - react-native-device-info](https://github.com/rebeccahughes/react-native-device-info)
 
-https://github.com/invertase/react-native-firebase Firebase sdk
+[Firebase sdk - react-native-firebase](https://github.com/invertase/react-native-firebase)
 
-https://github.com/idehub/react-native-google-analytics-bridge Google Analytics wrapper
+[Google Analytics wrapper - react-native-google-analytics-bridge](https://github.com/idehub/react-native-google-analytics-bridge)
 
-https://github.com/reactjs/react-docgen Documentation generation
+[Documentation generation - react-docgen](https://github.com/reactjs/react-docgen)
 
-https://github.com/aws/aws-sdk-js AWS SDK
+[AWS SDK - aws-sdk-js](https://github.com/aws/aws-sdk-js)
 
-https://github.com/wkh237/react-native-fetch-blob File access and data transfer
+[File access and data transfer - react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob)
 
-https://github.com/jsierles/react-native-audio Record audio
+[Record audio - react-native-audio](https://github.com/jsierles/react-native-audio)
 
-https://github.com/alwx/react-native-photo-view Image pan and zoom
+[Image pan and zoom - react-native-photo-view](https://github.com/alwx/react-native-photo-view)
 
 # HOME STRETCH
 #### CREATING AND MANAGING ASSETS
-https://github.com/fastlane/fastlane Automate build and release steps
+[Automate build and release steps - fastlane](https://github.com/fastlane/fastlane)
 
-http://apetools.webprofusion.com/tools/imagegorilla Transform app icon/splashscreen resource into necessary sizes for iOS and Android
+[Transform app icon/splashscreen resource into necessary sizes for iOS and Android - Image Gorilla](http://apetools.webprofusion.com/tools/imagegorilla)
 
 #### PROJECTS WITHOUT NATIVE MODULES
-https://github.com/Microsoft/react-native-code-push CodePush
+[Continuous deloyment via Microsoft's CodePush](https://github.com/Microsoft/react-native-code-push)
 
 #### PUBLISH FOR IOS
 1. Update Xcode scheme for project Product -> Scheme -> Edit Scheme -> Run -> Info -> Build Configuration -> Release
@@ -255,9 +256,9 @@ https://github.com/Microsoft/react-native-code-push CodePush
 
 #### PUBLISH FOR ANDROID
 
-https://developer.android.com/distribute/best-practices/launch/launch-checklist.html Checklist 
+[Google Play Store Checklist - Android Developer](https://developer.android.com/distribute/best-practices/launch/launch-checklist.html)
 
-1. https://facebook.github.io/react-native/docs/signed-apk-android.html Create signed APK
+1. [Create signed APK - React Native docs](https://facebook.github.io/react-native/docs/signed-apk-android.html)
 
 2. The generated APK is found under PROJECTNAME/android/app/build/outputs/apk/app-release.apk
 
