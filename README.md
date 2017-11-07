@@ -259,7 +259,7 @@
 
 #### PUBLISH FOR ANDROID
 
-[Google Play Store Checklist - Android Developer](https://developer.android.com/distribute/best-practices/launch/launch-checklist.html)
+- [Google Play Store Checklist - Android Developer](https://developer.android.com/distribute/best-practices/launch/launch-checklist.html)
 
 1. [Create signed APK - React Native docs](https://facebook.github.io/react-native/docs/signed-apk-android.html)
 
