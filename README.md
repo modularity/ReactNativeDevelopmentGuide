@@ -23,6 +23,8 @@
 #### STARTER KITS
 - [Easiest way to build your first project - Expo](https://expo.io/) 
 
+- [Overview of Expo - JS Solutions blog](https://jssolutionsdev.com/blog/tools-for-react-native-app-development-expo-review/)
+
 - [CLI with boilerplates, plugins, etc - Ignite](https://github.com/infinitered/ignite) 
 
 - [UI starter kit - Kitten Tricks](https://github.com/akveo/kittenTricks)
@@ -94,7 +96,7 @@
 #### LIFECYCLE
 - [Component Lifecycle - React docs](https://reactjs.org/docs/react-component.html) 
 
-- [React Lifecycle methods - Musefind](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1) 
+- [React Lifecycle methods - Musefind blog](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1) 
 
 #### REDUX
 - Paradigm to manage app state and data flow
@@ -109,9 +111,13 @@
 
 #### MOBILE DEVELOPMENT
 
-- [Typical Mobile Development Cycle - Thinslices](https://www.thinslices.com/blog/phases-mobile-product-development-process)
+- [Typical Mobile Development Cycle - Thinslices blog](https://www.thinslices.com/blog/phases-mobile-product-development-process)
 
 - [Indepth Mobile Development Process - The BHW Group](https://thebhwgroup.com/blog/mobile-app-development-process)
+
+- [Add custom splash screen - Medium](https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae)
+
+- [Update app icon - Bam Tech Blog](https://blog.bam.tech/developper-news/change-your-react-native-app-icons-in-a-single-command-line)
 
 #### iOS DEVELOPMENT
 
@@ -153,6 +159,8 @@
 - [Image editor - Pixlr](https://pixlr.com/web)
 
 - [Simple graphic design tool - Canva](https://www.canva.com/)
+
+- [Add custom icons to an app - Medium](https://medium.com/bam-tech/add-custom-icons-to-your-react-native-application-f039c244386c)
 
 #### NODE
 - [Node.js docs](https://nodejs.org/en/docs/)
