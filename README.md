@@ -119,6 +119,8 @@
 
 - [Update app icon - Bam Tech Blog](https://blog.bam.tech/developper-news/change-your-react-native-app-icons-in-a-single-command-line)
 
+- Note: Caches increase loading times, but may need to be deleted to process project updates. For changes to core app settings like app icon and splash screens, make sure to clear Derived Data in Xcode. iOS Emulators should be reset or uninstall the app. Android emulators also need to be reset as well for updates to app icons/splash screens.
+
 #### iOS DEVELOPMENT
 
 - [iOS permissions in Info.plist - Apple Developer docs](https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Introduction/Introduction.html)
@@ -133,6 +135,14 @@
 
 - [Platform to manage App Store submissions - iTunesConnect](https://itunesconnect.apple.com/)
 
+- [Xcode: Delete derived data and clean project - iOSDevCenters](https://iosdevcenters.blogspot.com/2015/12/how-to-delete-derived-data-and-clean.html)
+
+- To reset iOS Emulators:
+    
+      For Xcode 9, Simulator -> Hardware -> Erase All Content and Settings...
+    
+      For Xcode 8, Simulator > Reset Content and Settings
+
 #### ANDROID DEVELOPMENT
 
 - [Android permissions in AndroidManifest.xml - Android Developer docs](https://developer.android.com/guide/topics/permissions/index.html)
@@ -141,6 +151,12 @@
 
 - [Features with Google Play Console - Android Developer](https://developer.android.com/distribute/console/features.html)
 
+- To reset Android emulator: 
+       
+      Add the parameter -wipe-data to commandline when starting an emulator 
+          e.g. /Users/YOURNAME/Library/Android/sdk/tools/emulator -avd Nexus_S_API_25 -wipe-data        
+  
+      Android Studio -> Tools > Android > AVD Manager -> Select your emulator device -> Wipe data
 
 # THE NEXT LEVEL
 #### CONTRIBUTE
