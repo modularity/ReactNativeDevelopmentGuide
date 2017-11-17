@@ -1,11 +1,14 @@
+**React Native is growing rapidly and a lot can change in a month. So be cautious of resources that haven't been updated in awhile e.g. [React Native v0.49.0](https://github.com/facebook/react-native/releases/tag/v0.49.0) was released October 3, 2017 and changed from platform dependent entry-points (index.android.js and index.ios.js) to a single entry-point file.**
 
 # DIVE IN
 #### GETTING STARTED
 - [Presentation: overview of React Native](https://docs.google.com/presentation/d/1XHoO5OzxoWgOQD6zDhGFssL-PT9MNp7P89pFWWnyFHw/edit?usp=sharing)
 
-- [Overview with Tutorial](http://www.reactnativeexpress.com/)
+- [Overview with tutorial](http://www.reactnativeexpress.com/)
 
-- [Docs](https://facebook.github.io/react-native/docs/getting-started.html)
+- [React Native basics tutorial - Handlebar Labs](https://learn.handlebarlabs.com/courses/react-native-basics-build-a-currency-converter/lectures/2643137)
+
+- [Official React Native docs](https://facebook.github.io/react-native/docs/getting-started.html)
 
 #### DEV TOOLS
 - [IDE - Atom](https://atom.io/)
@@ -110,7 +113,6 @@
 - [Redux cartoon - Lin Clark on Meduim](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 
 #### MOBILE DEVELOPMENT
-
 - [Typical Mobile Development Cycle - Thinslices blog](https://www.thinslices.com/blog/phases-mobile-product-development-process)
 
 - [Indepth Mobile Development Process - The BHW Group](https://thebhwgroup.com/blog/mobile-app-development-process)
@@ -122,7 +124,6 @@
 - Note: Caches increase loading times, but may need to be deleted to process project updates. For changes to core app settings like app icon and splash screens, make sure to clear Derived Data in Xcode. iOS Emulators should be reset or uninstall the app. Android emulators also need to be reset as well for updates to app icons/splash screens.
 
 #### iOS DEVELOPMENT
-
 - [iOS permissions in Info.plist - Apple Developer docs](https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Introduction/Introduction.html)
 
 - [Overview of iOS certificates, identifiers and profiles - Theodo](https://www.theodo.fr/blog/2017/02/a-beginners-guide-to-ios-provisioning-profiles/)
@@ -144,7 +145,6 @@
       For Xcode 8, Simulator > Reset Content and Settings
 
 #### ANDROID DEVELOPMENT
-
 - [Android permissions in AndroidManifest.xml - Android Developer docs](https://developer.android.com/guide/topics/permissions/index.html)
 
 - [Platform to manage Google Play submission - Android Developer](https://developer.android.com/distribute/console/index.html)
@@ -175,6 +175,8 @@
 - [Image editor - Pixlr](https://pixlr.com/web)
 
 - [Simple graphic design tool - Canva](https://www.canva.com/)
+
+- [Mobile design prototyping - Origami Studio](https://origami.design/)
 
 - [Add custom icons to an app - Medium](https://medium.com/bam-tech/add-custom-icons-to-your-react-native-application-f039c244386c)
 
@@ -282,7 +284,6 @@
 8. The new binary will become available in iTunesConnect.
 
 #### PUBLISH FOR ANDROID
-
 - [Google Play Store Checklist - Android Developer](https://developer.android.com/distribute/best-practices/launch/launch-checklist.html)
 
 1. [Create signed APK - React Native docs](https://facebook.github.io/react-native/docs/signed-apk-android.html)
