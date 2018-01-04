@@ -261,6 +261,7 @@
 
 - [AWS Cognito, S3 - aws-amplify-react-native](https://github.com/aws/aws-amplify)
 
+- [AWS AppSync (Currently in Preview) ](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
 
 # HOME STRETCH
 #### CREATING AND MANAGING ASSETS
