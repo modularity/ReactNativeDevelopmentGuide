@@ -1,4 +1,4 @@
-**React Native is growing rapidly and a lot can change in a month. So be cautious of resources that haven't been updated in awhile e.g. [React Native v0.49.0](https://github.com/facebook/react-native/releases/tag/v0.49.0) was released October 3, 2017 and changed from platform dependent entry-points (index.android.js and index.ios.js) to a single entry-point file.**
+
 
 # DIVE IN
 #### GETTING STARTED
@@ -256,6 +256,11 @@
 - [Record audio - react-native-audio](https://github.com/jsierles/react-native-audio)
 
 - [Image pan and zoom - react-native-photo-view](https://github.com/alwx/react-native-photo-view)
+
+- [AWS JS SDK - aws-sdk-js](aws-sdk-js)
+
+- [AWS Cognito, S3 - aws-amplify-react-native](https://github.com/aws/aws-amplify)
+
 
 # HOME STRETCH
 #### CREATING AND MANAGING ASSETS
