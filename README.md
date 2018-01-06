@@ -19,8 +19,6 @@
 
 - [Catch typing errors - Flow](https://flow.org/)
 
-- [Unit Tests - Jest](http://facebook.github.io/jest/)
-
 - [Debugging - React Native docs](https://facebook.github.io/react-native/docs/debugging.html)
 
 #### STARTER KITS
@@ -157,6 +155,12 @@
           e.g. /Users/YOURNAME/Library/Android/sdk/tools/emulator -avd Nexus_S_API_25 -wipe-data        
   
       Android Studio -> Tools > Android > AVD Manager -> Select your emulator device -> Wipe data
+      
+#### TESTING
+- [Jest docs - Facebook](http://facebook.github.io/jest/)
+- [Jest tutorial - Medium](https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-1-f782c4e30101)
+- [Jest Enzyme tutorial - redlight blog](https://blog.weareredlight.com/react-native-tutorial-2-testing-redux-apps-with-jest-enzyme-bdf4a518f839)
+- [Enzyme docs - Airbnb](http://airbnb.io/enzyme/)
 
 # THE NEXT LEVEL
 #### CONTRIBUTE
