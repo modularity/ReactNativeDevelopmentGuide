@@ -141,6 +141,8 @@
       For Xcode 9, Simulator -> Hardware -> Erase All Content and Settings...
     
       For Xcode 8, Simulator > Reset Content and Settings
+      
+- [Run app simultaneously on multiple iOS simulators - Jesper Lund blog](https://jesperln.dk/react-native-run-multiple-ios-simulators-simultaneously/)
 
 #### ANDROID DEVELOPMENT
 - [Android permissions in AndroidManifest.xml - Android Developer docs](https://developer.android.com/guide/topics/permissions/index.html)
@@ -158,8 +160,11 @@
       
 #### TESTING
 - [Jest docs - Facebook](http://facebook.github.io/jest/)
+
 - [Jest tutorial - Medium](https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-1-f782c4e30101)
+
 - [Jest Enzyme tutorial - redlight blog](https://blog.weareredlight.com/react-native-tutorial-2-testing-redux-apps-with-jest-enzyme-bdf4a518f839)
+
 - [Enzyme docs - Airbnb](http://airbnb.io/enzyme/)
 
 # THE NEXT LEVEL
