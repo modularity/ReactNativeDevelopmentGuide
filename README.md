@@ -57,6 +57,15 @@
 
 - [ES6 feature overview - lukehoban on GitHub](https://github.com/lukehoban/es6features)
 
+- [Composition vs Inheritance - Medium](https://medium.com/front-end-hacking/classless-javascript-composition-over-inheritance-6b27c35893b1)
+- [Call vs apply vs bind - Medium](https://medium.com/@homicidalgecko/javascript-call-vs-apply-vs-bind-61447bc5e989)
+
+- [Prototype - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+
+- [Closure - Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+
+- [Hoisting/Scope - Medium](https://medium.com/@naveenkarippai/scoping-and-hoisting-in-javascript-2c2e82107427)
+
 #### REACT
 - [React docs](https://reactjs.org/)
 
@@ -101,6 +110,8 @@
 
 #### REDUX
 - Paradigm to manage app state and data flow
+
+- State management in which actions within a component dispatch transformations of state to reducers and the new state is relayed to subscribed components
 
 - [Redux docs](http://redux.js.org/)
 
