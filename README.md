@@ -187,7 +187,7 @@
 #### PERFORMANCE
 - [Performance with React Native - React Native docs](https://facebook.github.io/react-native/docs/performance.html)
 
-#### DESIGN
+#### DESIGN AND PROTOTYPING
 - [Design, prototyping for UI - Figma](https://www.figma.com)
 
 - [Vector editor - Designer.io](https://designer.io/)
@@ -199,6 +199,19 @@
 - [Mobile design prototyping - Origami Studio](https://origami.design/)
 
 - [Add custom icons to an app - Medium](https://medium.com/bam-tech/add-custom-icons-to-your-react-native-application-f039c244386c)
+
+#### MOBILE UX/UI
+- [Mobile UX for errors - UX Planet](https://uxplanet.org/mobile-ux-design-user-errors-1ad1f5d664f9)
+
+- [Mobile app personalization - UsabilityGeek](https://usabilitygeek.com/mobile-app-personalization-how-to/)
+
+- [User onboarding - UsabilityGeek](https://usabilitygeek.com/user-onboarding-comprehensive-guide/)
+
+- [Difference between UX and UI - UsabilityGeek](https://usabilitygeek.com/the-difference-between-ux-and-ui-design/)
+
+- [Mobile UI Design: common designs - UX Planet](https://uxplanet.org/mobile-ui-design-basic-types-of-screens-aa1857e31339)
+
+- [UI inspiration - Dribble](https://dribbble.com/tags/mobile)
 
 #### NODE
 - [Node.js docs](https://nodejs.org/en/docs/)
