@@ -184,6 +184,11 @@
 
 - [Contributing to React Native - React Native docs](https://facebook.github.io/react-native/docs/contributing.html)
 
+#### CUSTOM COMPONENTS
+- [Create your first custom UI component - Medium](https://hackernoon.com/create-your-first-custom-ui-component-in-react-native-28213cb56067)
+
+- [React Native custom components - Medium](https://medium.com/pvtl/react-native-custom-components-6cd0f6461f67)
+
 #### PERFORMANCE
 - [Performance with React Native - React Native docs](https://facebook.github.io/react-native/docs/performance.html)
 
