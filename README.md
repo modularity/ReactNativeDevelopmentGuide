@@ -21,6 +21,7 @@
 
 - [Debugging - React Native docs](https://facebook.github.io/react-native/docs/debugging.html)
 
+
 #### STARTER KITS
 - [Easiest way to build your first project - Expo](https://expo.io/) 
 
@@ -168,7 +169,7 @@
           e.g. /Users/YOURNAME/Library/Android/sdk/tools/emulator -avd Nexus_S_API_25 -wipe-data        
   
       Android Studio -> Tools > Android > AVD Manager -> Select your emulator device -> Wipe data
-      
+
 #### TESTING
 - [Jest docs - Facebook](http://facebook.github.io/jest/)
 
@@ -177,6 +178,16 @@
 - [Jest Enzyme tutorial - redlight blog](https://blog.weareredlight.com/react-native-tutorial-2-testing-redux-apps-with-jest-enzyme-bdf4a518f839)
 
 - [Enzyme docs - Airbnb](http://airbnb.io/enzyme/)
+
+#### NETWORKING
+Libraries like fetch, XMLHttpRequest, axios offer inspection at the JavaScript level which is helpful but don't tell the exact details of each request. To do that we need to inspect network calls on the native level. Charles is pretty easy to setup, even with SSL. 
+
+- [Network Proxy - Charles](https://www.charlesproxy.com/)
+
+- [Charles iOS Tutorial](https://www.raywenderlich.com/154244/charles-proxy-tutorial-ios)
+
+- [Charles - Android Tutorial](https://medium.com/@hackupstate/using-charles-proxy-to-debug-android-ssl-traffic-e61fc38760f7)
+
 
 # THE NEXT LEVEL
 #### CONTRIBUTE
